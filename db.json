@@ -1,0 +1,2138 @@
+{
+  "students": [
+    {
+      "id": "stu-001",
+      "contineo_id": "C1001",
+      "name": "Vishal Saxena",
+      "email": "student1@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS001",
+      "year": "2"
+    },
+    {
+      "id": "stu-002",
+      "contineo_id": "C1002",
+      "name": "Suhas Kamath",
+      "email": "student2@example.com",
+      "department": "CSE",
+      "division": "B",
+      "roll": "21CS002",
+      "year": "2"
+    },
+    {
+      "id": "stu-003",
+      "contineo_id": "C1003",
+      "name": "Divya Gowda",
+      "email": "student3@example.com",
+      "department": "CSE",
+      "division": "B",
+      "roll": "21CS003",
+      "year": "2"
+    },
+    {
+      "id": "stu-004",
+      "contineo_id": "C1004",
+      "name": "Shruti Hiremath",
+      "email": "student4@example.com",
+      "department": "CSE",
+      "division": "B",
+      "roll": "21CS004",
+      "year": "3"
+    },
+    {
+      "id": "stu-005",
+      "contineo_id": "C1005",
+      "name": "Sneha Naik",
+      "email": "student5@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS005",
+      "year": "4"
+    },
+    {
+      "id": "stu-006",
+      "contineo_id": "C1006",
+      "name": "Pooja Saxena",
+      "email": "student6@example.com",
+      "department": "CSE",
+      "division": "A",
+      "roll": "21CS006",
+      "year": "4"
+    },
+    {
+      "id": "stu-007",
+      "contineo_id": "C1007",
+      "name": "Gagana Iyengar",
+      "email": "student7@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS007",
+      "year": "2"
+    },
+    {
+      "id": "stu-008",
+      "contineo_id": "C1008",
+      "name": "Rishab Kumar",
+      "email": "student8@example.com",
+      "department": "CSE",
+      "division": "A",
+      "roll": "21CS008",
+      "year": "3"
+    },
+    {
+      "id": "stu-009",
+      "contineo_id": "C1009",
+      "name": "Pooja Joshi",
+      "email": "student9@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS009",
+      "year": "3"
+    },
+    {
+      "id": "stu-010",
+      "contineo_id": "C1010",
+      "name": "Manoj Kumar",
+      "email": "student10@example.com",
+      "department": "CSE",
+      "division": "A",
+      "roll": "21CS010",
+      "year": "4"
+    },
+    {
+      "id": "stu-011",
+      "contineo_id": "C1011",
+      "name": "Vishal Sharma",
+      "email": "student11@example.com",
+      "department": "CSE",
+      "division": "A",
+      "roll": "21CS011",
+      "year": "2"
+    },
+    {
+      "id": "stu-012",
+      "contineo_id": "C1012",
+      "name": "Arjun Shetty",
+      "email": "student12@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS012",
+      "year": "3"
+    },
+    {
+      "id": "stu-013",
+      "contineo_id": "C1013",
+      "name": "Anusha Gowda",
+      "email": "student13@example.com",
+      "department": "CSE",
+      "division": "A",
+      "roll": "21CS013",
+      "year": "4"
+    },
+    {
+      "id": "stu-014",
+      "contineo_id": "C1014",
+      "name": "Nikita Malagi",
+      "email": "student14@example.com",
+      "department": "CSE",
+      "division": "B",
+      "roll": "21CS014",
+      "year": "2"
+    },
+    {
+      "id": "stu-015",
+      "contineo_id": "C1015",
+      "name": "Rohit Kamath",
+      "email": "student15@example.com",
+      "department": "CSE",
+      "division": "B",
+      "roll": "21CS015",
+      "year": "3"
+    },
+    {
+      "id": "stu-016",
+      "contineo_id": "C1016",
+      "name": "Suhas Gowda",
+      "email": "student16@example.com",
+      "department": "CSE",
+      "division": "B",
+      "roll": "21CS016",
+      "year": "2"
+    },
+    {
+      "id": "stu-017",
+      "contineo_id": "C1017",
+      "name": "Rahul Malagi",
+      "email": "student17@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS017",
+      "year": "3"
+    },
+    {
+      "id": "stu-018",
+      "contineo_id": "C1018",
+      "name": "Gagana Iyengar",
+      "email": "student18@example.com",
+      "department": "CSE",
+      "division": "A",
+      "roll": "21CS018",
+      "year": "4"
+    },
+    {
+      "id": "stu-019",
+      "contineo_id": "C1019",
+      "name": "Suhas Kulkarni",
+      "email": "student19@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS019",
+      "year": "3"
+    },
+    {
+      "id": "stu-020",
+      "contineo_id": "C1020",
+      "name": "Vishal Kumar",
+      "email": "student20@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS020",
+      "year": "3"
+    },
+    {
+      "id": "stu-021",
+      "contineo_id": "C1021",
+      "name": "Akash Kamath",
+      "email": "student21@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS021",
+      "year": "3"
+    },
+    {
+      "id": "stu-022",
+      "contineo_id": "C1022",
+      "name": "Ragini Rao",
+      "email": "student22@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS022",
+      "year": "3"
+    },
+    {
+      "id": "stu-023",
+      "contineo_id": "C1023",
+      "name": "Rishab Desai",
+      "email": "student23@example.com",
+      "department": "CSE",
+      "division": "A",
+      "roll": "21CS023",
+      "year": "3"
+    },
+    {
+      "id": "stu-024",
+      "contineo_id": "C1024",
+      "name": "Divya Sharma",
+      "email": "student24@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS024",
+      "year": "3"
+    },
+    {
+      "id": "stu-025",
+      "contineo_id": "C1025",
+      "name": "Rohit Malagi",
+      "email": "student25@example.com",
+      "department": "CSE",
+      "division": "A",
+      "roll": "21CS025",
+      "year": "2"
+    },
+    {
+      "id": "stu-026",
+      "contineo_id": "C1026",
+      "name": "Akash Naik",
+      "email": "student26@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS026",
+      "year": "4"
+    },
+    {
+      "id": "stu-027",
+      "contineo_id": "C1027",
+      "name": "Tejas Joshi",
+      "email": "student27@example.com",
+      "department": "CSE",
+      "division": "A",
+      "roll": "21CS027",
+      "year": "2"
+    },
+    {
+      "id": "stu-028",
+      "contineo_id": "C1028",
+      "name": "Aishwarya Rao",
+      "email": "student28@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS028",
+      "year": "2"
+    },
+    {
+      "id": "stu-029",
+      "contineo_id": "C1029",
+      "name": "Harsha Kulkarni",
+      "email": "student29@example.com",
+      "department": "CSE",
+      "division": "B",
+      "roll": "21CS029",
+      "year": "4"
+    },
+    {
+      "id": "stu-030",
+      "contineo_id": "C1030",
+      "name": "Shruti Patil",
+      "email": "student30@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS030",
+      "year": "2"
+    },
+    {
+      "id": "stu-031",
+      "contineo_id": "C1031",
+      "name": "Neha Saxena",
+      "email": "student31@example.com",
+      "department": "CSE",
+      "division": "A",
+      "roll": "21CS031",
+      "year": "2"
+    },
+    {
+      "id": "stu-032",
+      "contineo_id": "C1032",
+      "name": "Shruti Sharma",
+      "email": "student32@example.com",
+      "department": "CSE",
+      "division": "A",
+      "roll": "21CS032",
+      "year": "2"
+    },
+    {
+      "id": "stu-033",
+      "contineo_id": "C1033",
+      "name": "Suhas Rao",
+      "email": "student33@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS033",
+      "year": "4"
+    },
+    {
+      "id": "stu-034",
+      "contineo_id": "C1034",
+      "name": "Sneha Saxena",
+      "email": "student34@example.com",
+      "department": "CSE",
+      "division": "A",
+      "roll": "21CS034",
+      "year": "4"
+    },
+    {
+      "id": "stu-035",
+      "contineo_id": "C1035",
+      "name": "Arjun Sharma",
+      "email": "student35@example.com",
+      "department": "CSE",
+      "division": "A",
+      "roll": "21CS035",
+      "year": "4"
+    },
+    {
+      "id": "stu-036",
+      "contineo_id": "C1036",
+      "name": "Tejas Kulkarni",
+      "email": "student36@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS036",
+      "year": "4"
+    },
+    {
+      "id": "stu-037",
+      "contineo_id": "C1037",
+      "name": "Yash Kulkarni",
+      "email": "student37@example.com",
+      "department": "CSE",
+      "division": "A",
+      "roll": "21CS037",
+      "year": "4"
+    },
+    {
+      "id": "stu-038",
+      "contineo_id": "C1038",
+      "name": "Nikita Shenoy",
+      "email": "student38@example.com",
+      "department": "CSE",
+      "division": "B",
+      "roll": "21CS038",
+      "year": "4"
+    },
+    {
+      "id": "stu-039",
+      "contineo_id": "C1039",
+      "name": "Arjun Hegde",
+      "email": "student39@example.com",
+      "department": "CSE",
+      "division": "A",
+      "roll": "21CS039",
+      "year": "2"
+    },
+    {
+      "id": "stu-040",
+      "contineo_id": "C1040",
+      "name": "Harsha Rao",
+      "email": "student40@example.com",
+      "department": "CSE",
+      "division": "B",
+      "roll": "21CS040",
+      "year": "3"
+    },
+    {
+      "id": "stu-041",
+      "contineo_id": "C1041",
+      "name": "Harsha Sharma",
+      "email": "student41@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS041",
+      "year": "2"
+    },
+    {
+      "id": "stu-042",
+      "contineo_id": "C1042",
+      "name": "Anusha Desai",
+      "email": "student42@example.com",
+      "department": "CSE",
+      "division": "B",
+      "roll": "21CS042",
+      "year": "4"
+    },
+    {
+      "id": "stu-043",
+      "contineo_id": "C1043",
+      "name": "Aishwarya Patil",
+      "email": "student43@example.com",
+      "department": "CSE",
+      "division": "B",
+      "roll": "21CS043",
+      "year": "2"
+    },
+    {
+      "id": "stu-044",
+      "contineo_id": "C1044",
+      "name": "Kiran Malagi",
+      "email": "student44@example.com",
+      "department": "CSE",
+      "division": "A",
+      "roll": "21CS044",
+      "year": "2"
+    },
+    {
+      "id": "stu-045",
+      "contineo_id": "C1045",
+      "name": "Akash Hiremath",
+      "email": "student45@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS045",
+      "year": "3"
+    },
+    {
+      "id": "stu-046",
+      "contineo_id": "C1046",
+      "name": "Anusha Saxena",
+      "email": "student46@example.com",
+      "department": "CSE",
+      "division": "A",
+      "roll": "21CS046",
+      "year": "2"
+    },
+    {
+      "id": "stu-047",
+      "contineo_id": "C1047",
+      "name": "Rishab Desai",
+      "email": "student47@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS047",
+      "year": "3"
+    },
+    {
+      "id": "stu-048",
+      "contineo_id": "C1048",
+      "name": "Nikita Malagi",
+      "email": "student48@example.com",
+      "department": "CSE",
+      "division": "A",
+      "roll": "21CS048",
+      "year": "2"
+    },
+    {
+      "id": "stu-049",
+      "contineo_id": "C1049",
+      "name": "Rishab Hiremath",
+      "email": "student49@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS049",
+      "year": "3"
+    },
+    {
+      "id": "stu-050",
+      "contineo_id": "C1050",
+      "name": "Tejas Gowda",
+      "email": "student50@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS050",
+      "year": "4"
+    },
+    {
+      "id": "stu-051",
+      "contineo_id": "C1051",
+      "name": "Rohit Shenoy",
+      "email": "student51@example.com",
+      "department": "CSE",
+      "division": "A",
+      "roll": "21CS051",
+      "year": "2"
+    },
+    {
+      "id": "stu-052",
+      "contineo_id": "C1052",
+      "name": "Yash Gowda",
+      "email": "student52@example.com",
+      "department": "CSE",
+      "division": "B",
+      "roll": "21CS052",
+      "year": "4"
+    },
+    {
+      "id": "stu-053",
+      "contineo_id": "C1053",
+      "name": "Arjun Desai",
+      "email": "student53@example.com",
+      "department": "CSE",
+      "division": "A",
+      "roll": "21CS053",
+      "year": "3"
+    },
+    {
+      "id": "stu-054",
+      "contineo_id": "C1054",
+      "name": "Yash Iyengar",
+      "email": "student54@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS054",
+      "year": "3"
+    },
+    {
+      "id": "stu-055",
+      "contineo_id": "C1055",
+      "name": "Rahul Sharma",
+      "email": "student55@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS055",
+      "year": "2"
+    },
+    {
+      "id": "stu-056",
+      "contineo_id": "C1056",
+      "name": "Akash Joshi",
+      "email": "student56@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS056",
+      "year": "3"
+    },
+    {
+      "id": "stu-057",
+      "contineo_id": "C1057",
+      "name": "Ragini Naik",
+      "email": "student57@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS057",
+      "year": "3"
+    },
+    {
+      "id": "stu-058",
+      "contineo_id": "C1058",
+      "name": "Ragini Kumar",
+      "email": "student58@example.com",
+      "department": "CSE",
+      "division": "B",
+      "roll": "21CS058",
+      "year": "2"
+    },
+    {
+      "id": "stu-059",
+      "contineo_id": "C1059",
+      "name": "Rishab Desai",
+      "email": "student59@example.com",
+      "department": "CSE",
+      "division": "B",
+      "roll": "21CS059",
+      "year": "3"
+    },
+    {
+      "id": "stu-060",
+      "contineo_id": "C1060",
+      "name": "Divya Rao",
+      "email": "student60@example.com",
+      "department": "CSE",
+      "division": "B",
+      "roll": "21CS060",
+      "year": "2"
+    },
+    {
+      "id": "stu-061",
+      "contineo_id": "C1061",
+      "name": "Sneha Hegde",
+      "email": "student61@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS061",
+      "year": "4"
+    },
+    {
+      "id": "stu-062",
+      "contineo_id": "C1062",
+      "name": "Pooja Desai",
+      "email": "student62@example.com",
+      "department": "CSE",
+      "division": "A",
+      "roll": "21CS062",
+      "year": "4"
+    },
+    {
+      "id": "stu-063",
+      "contineo_id": "C1063",
+      "name": "Aishwarya Gupta",
+      "email": "student63@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS063",
+      "year": "4"
+    },
+    {
+      "id": "stu-064",
+      "contineo_id": "C1064",
+      "name": "Ranjit Kamath",
+      "email": "student64@example.com",
+      "department": "CSE",
+      "division": "B",
+      "roll": "21CS064",
+      "year": "4"
+    },
+    {
+      "id": "stu-065",
+      "contineo_id": "C1065",
+      "name": "Ranjit Rao",
+      "email": "student65@example.com",
+      "department": "CSE",
+      "division": "A",
+      "roll": "21CS065",
+      "year": "3"
+    },
+    {
+      "id": "stu-066",
+      "contineo_id": "C1066",
+      "name": "Meghana Malagi",
+      "email": "student66@example.com",
+      "department": "CSE",
+      "division": "B",
+      "roll": "21CS066",
+      "year": "2"
+    },
+    {
+      "id": "stu-067",
+      "contineo_id": "C1067",
+      "name": "Neha Gupta",
+      "email": "student67@example.com",
+      "department": "CSE",
+      "division": "A",
+      "roll": "21CS067",
+      "year": "4"
+    },
+    {
+      "id": "stu-068",
+      "contineo_id": "C1068",
+      "name": "Yash Sharma",
+      "email": "student68@example.com",
+      "department": "CSE",
+      "division": "B",
+      "roll": "21CS068",
+      "year": "3"
+    },
+    {
+      "id": "stu-069",
+      "contineo_id": "C1069",
+      "name": "Pooja Gupta",
+      "email": "student69@example.com",
+      "department": "CSE",
+      "division": "A",
+      "roll": "21CS069",
+      "year": "4"
+    },
+    {
+      "id": "stu-070",
+      "contineo_id": "C1070",
+      "name": "Tejas Kamath",
+      "email": "student70@example.com",
+      "department": "CSE",
+      "division": "A",
+      "roll": "21CS070",
+      "year": "2"
+    },
+    {
+      "id": "stu-071",
+      "contineo_id": "C1071",
+      "name": "Manoj Patil",
+      "email": "student71@example.com",
+      "department": "CSE",
+      "division": "A",
+      "roll": "21CS071",
+      "year": "2"
+    },
+    {
+      "id": "stu-072",
+      "contineo_id": "C1072",
+      "name": "Akash Kulkarni",
+      "email": "student72@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS072",
+      "year": "4"
+    },
+    {
+      "id": "stu-073",
+      "contineo_id": "C1073",
+      "name": "Meghana Saxena",
+      "email": "student73@example.com",
+      "department": "CSE",
+      "division": "B",
+      "roll": "21CS073",
+      "year": "3"
+    },
+    {
+      "id": "stu-074",
+      "contineo_id": "C1074",
+      "name": "Yash Kulkarni",
+      "email": "student74@example.com",
+      "department": "CSE",
+      "division": "B",
+      "roll": "21CS074",
+      "year": "4"
+    },
+    {
+      "id": "stu-075",
+      "contineo_id": "C1075",
+      "name": "Arjun Malagi",
+      "email": "student75@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS075",
+      "year": "2"
+    },
+    {
+      "id": "stu-076",
+      "contineo_id": "C1076",
+      "name": "Nikita Joshi",
+      "email": "student76@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS076",
+      "year": "4"
+    },
+    {
+      "id": "stu-077",
+      "contineo_id": "C1077",
+      "name": "Manoj Kamath",
+      "email": "student77@example.com",
+      "department": "CSE",
+      "division": "C",
+      "roll": "21CS077",
+      "year": "2"
+    },
+    {
+      "id": "stu-078",
+      "contineo_id": "C1078",
+      "name": "Arjun Malagi",
+      "email": "student78@example.com",
+      "department": "CSE",
+      "division": "B",
+      "roll": "21CS078",
+      "year": "3"
+    },
+    {
+      "id": "stu-079",
+      "contineo_id": "C1079",
+      "name": "Arjun Hegde",
+      "email": "student79@example.com",
+      "department": "CSE",
+      "division": "B",
+      "roll": "21CS079",
+      "year": "4"
+    },
+    {
+      "id": "stu-080",
+      "contineo_id": "C1080",
+      "name": "Nikita Kulkarni",
+      "email": "student80@example.com",
+      "department": "CSE",
+      "division": "B",
+      "roll": "21CS080",
+      "year": "4"
+    },
+    {
+      "id": "stu-081",
+      "contineo_id": "E1081",
+      "name": "Yash Saxena",
+      "email": "student81@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC081",
+      "year": "4"
+    },
+    {
+      "id": "stu-082",
+      "contineo_id": "E1082",
+      "name": "Gagana Saxena",
+      "email": "student82@example.com",
+      "department": "ECE",
+      "division": "B",
+      "roll": "21EC082",
+      "year": "2"
+    },
+    {
+      "id": "stu-083",
+      "contineo_id": "E1083",
+      "name": "Manoj Kulkarni",
+      "email": "student83@example.com",
+      "department": "ECE",
+      "division": "B",
+      "roll": "21EC083",
+      "year": "4"
+    },
+    {
+      "id": "stu-084",
+      "contineo_id": "E1084",
+      "name": "Neha Rao",
+      "email": "student84@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC084",
+      "year": "4"
+    },
+    {
+      "id": "stu-085",
+      "contineo_id": "E1085",
+      "name": "Yash Desai",
+      "email": "student85@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC085",
+      "year": "4"
+    },
+    {
+      "id": "stu-086",
+      "contineo_id": "E1086",
+      "name": "Kiran Shenoy",
+      "email": "student86@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC086",
+      "year": "3"
+    },
+    {
+      "id": "stu-087",
+      "contineo_id": "E1087",
+      "name": "Divya Sharma",
+      "email": "student87@example.com",
+      "department": "ECE",
+      "division": "B",
+      "roll": "21EC087",
+      "year": "3"
+    },
+    {
+      "id": "stu-088",
+      "contineo_id": "E1088",
+      "name": "Vishal Kulkarni",
+      "email": "student88@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC088",
+      "year": "4"
+    },
+    {
+      "id": "stu-089",
+      "contineo_id": "E1089",
+      "name": "Yash Gowda",
+      "email": "student89@example.com",
+      "department": "ECE",
+      "division": "B",
+      "roll": "21EC089",
+      "year": "2"
+    },
+    {
+      "id": "stu-090",
+      "contineo_id": "E1090",
+      "name": "Meghana Sharma",
+      "email": "student90@example.com",
+      "department": "ECE",
+      "division": "B",
+      "roll": "21EC090",
+      "year": "2"
+    },
+    {
+      "id": "stu-091",
+      "contineo_id": "E1091",
+      "name": "Anusha Iyengar",
+      "email": "student91@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC091",
+      "year": "3"
+    },
+    {
+      "id": "stu-092",
+      "contineo_id": "E1092",
+      "name": "Sneha Iyengar",
+      "email": "student92@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC092",
+      "year": "4"
+    },
+    {
+      "id": "stu-093",
+      "contineo_id": "E1093",
+      "name": "Aishwarya Kulkarni",
+      "email": "student93@example.com",
+      "department": "ECE",
+      "division": "B",
+      "roll": "21EC093",
+      "year": "4"
+    },
+    {
+      "id": "stu-094",
+      "contineo_id": "E1094",
+      "name": "Pooja Saxena",
+      "email": "student94@example.com",
+      "department": "ECE",
+      "division": "B",
+      "roll": "21EC094",
+      "year": "4"
+    },
+    {
+      "id": "stu-095",
+      "contineo_id": "E1095",
+      "name": "Manoj Sharma",
+      "email": "student95@example.com",
+      "department": "ECE",
+      "division": "B",
+      "roll": "21EC095",
+      "year": "4"
+    },
+    {
+      "id": "stu-096",
+      "contineo_id": "E1096",
+      "name": "Vishal Gowda",
+      "email": "student96@example.com",
+      "department": "ECE",
+      "division": "B",
+      "roll": "21EC096",
+      "year": "2"
+    },
+    {
+      "id": "stu-097",
+      "contineo_id": "E1097",
+      "name": "Ranjit Patil",
+      "email": "student97@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC097",
+      "year": "2"
+    },
+    {
+      "id": "stu-098",
+      "contineo_id": "E1098",
+      "name": "Manoj Iyengar",
+      "email": "student98@example.com",
+      "department": "ECE",
+      "division": "B",
+      "roll": "21EC098",
+      "year": "3"
+    },
+    {
+      "id": "stu-099",
+      "contineo_id": "E1099",
+      "name": "Rahul Malagi",
+      "email": "student99@example.com",
+      "department": "ECE",
+      "division": "B",
+      "roll": "21EC099",
+      "year": "3"
+    },
+    {
+      "id": "stu-100",
+      "contineo_id": "E1100",
+      "name": "Anusha Gowda",
+      "email": "student100@example.com",
+      "department": "ECE",
+      "division": "B",
+      "roll": "21EC100",
+      "year": "2"
+    },
+    {
+      "id": "stu-101",
+      "contineo_id": "E1101",
+      "name": "Tejas Gowda",
+      "email": "student101@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC101",
+      "year": "3"
+    },
+    {
+      "id": "stu-102",
+      "contineo_id": "E1102",
+      "name": "Rahul Shetty",
+      "email": "student102@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC102",
+      "year": "3"
+    },
+    {
+      "id": "stu-103",
+      "contineo_id": "E1103",
+      "name": "Suhas Patil",
+      "email": "student103@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC103",
+      "year": "3"
+    },
+    {
+      "id": "stu-104",
+      "contineo_id": "E1104",
+      "name": "Kiran Saxena",
+      "email": "student104@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC104",
+      "year": "3"
+    },
+    {
+      "id": "stu-105",
+      "contineo_id": "E1105",
+      "name": "Anusha Shetty",
+      "email": "student105@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC105",
+      "year": "3"
+    },
+    {
+      "id": "stu-106",
+      "contineo_id": "E1106",
+      "name": "Rishab Patil",
+      "email": "student106@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC106",
+      "year": "2"
+    },
+    {
+      "id": "stu-107",
+      "contineo_id": "E1107",
+      "name": "Rahul Joshi",
+      "email": "student107@example.com",
+      "department": "ECE",
+      "division": "B",
+      "roll": "21EC107",
+      "year": "3"
+    },
+    {
+      "id": "stu-108",
+      "contineo_id": "E1108",
+      "name": "Tejas Sharma",
+      "email": "student108@example.com",
+      "department": "ECE",
+      "division": "B",
+      "roll": "21EC108",
+      "year": "3"
+    },
+    {
+      "id": "stu-109",
+      "contineo_id": "E1109",
+      "name": "Yash Desai",
+      "email": "student109@example.com",
+      "department": "ECE",
+      "division": "B",
+      "roll": "21EC109",
+      "year": "2"
+    },
+    {
+      "id": "stu-110",
+      "contineo_id": "E1110",
+      "name": "Vishal Joshi",
+      "email": "student110@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC110",
+      "year": "3"
+    },
+    {
+      "id": "stu-111",
+      "contineo_id": "E1111",
+      "name": "Rohit Gowda",
+      "email": "student111@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC111",
+      "year": "3"
+    },
+    {
+      "id": "stu-112",
+      "contineo_id": "E1112",
+      "name": "Anusha Naik",
+      "email": "student112@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC112",
+      "year": "4"
+    },
+    {
+      "id": "stu-113",
+      "contineo_id": "E1113",
+      "name": "Gagana Naik",
+      "email": "student113@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC113",
+      "year": "2"
+    },
+    {
+      "id": "stu-114",
+      "contineo_id": "E1114",
+      "name": "Nikita Shenoy",
+      "email": "student114@example.com",
+      "department": "ECE",
+      "division": "B",
+      "roll": "21EC114",
+      "year": "4"
+    },
+    {
+      "id": "stu-115",
+      "contineo_id": "E1115",
+      "name": "Divya Gupta",
+      "email": "student115@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC115",
+      "year": "4"
+    },
+    {
+      "id": "stu-116",
+      "contineo_id": "E1116",
+      "name": "Manoj Desai",
+      "email": "student116@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC116",
+      "year": "3"
+    },
+    {
+      "id": "stu-117",
+      "contineo_id": "E1117",
+      "name": "Meghana Iyengar",
+      "email": "student117@example.com",
+      "department": "ECE",
+      "division": "B",
+      "roll": "21EC117",
+      "year": "2"
+    },
+    {
+      "id": "stu-118",
+      "contineo_id": "E1118",
+      "name": "Pooja Sharma",
+      "email": "student118@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC118",
+      "year": "4"
+    },
+    {
+      "id": "stu-119",
+      "contineo_id": "E1119",
+      "name": "Pooja Rao",
+      "email": "student119@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC119",
+      "year": "4"
+    },
+    {
+      "id": "stu-120",
+      "contineo_id": "E1120",
+      "name": "Akash Desai",
+      "email": "student120@example.com",
+      "department": "ECE",
+      "division": "B",
+      "roll": "21EC120",
+      "year": "2"
+    },
+    {
+      "id": "stu-121",
+      "contineo_id": "E1121",
+      "name": "Vishal Desai",
+      "email": "student121@example.com",
+      "department": "ECE",
+      "division": "B",
+      "roll": "21EC121",
+      "year": "4"
+    },
+    {
+      "id": "stu-122",
+      "contineo_id": "E1122",
+      "name": "Ranjit Gowda",
+      "email": "student122@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC122",
+      "year": "4"
+    },
+    {
+      "id": "stu-123",
+      "contineo_id": "E1123",
+      "name": "Suhas Rao",
+      "email": "student123@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC123",
+      "year": "3"
+    },
+    {
+      "id": "stu-124",
+      "contineo_id": "E1124",
+      "name": "Rahul Gowda",
+      "email": "student124@example.com",
+      "department": "ECE",
+      "division": "B",
+      "roll": "21EC124",
+      "year": "3"
+    },
+    {
+      "id": "stu-125",
+      "contineo_id": "E1125",
+      "name": "Manoj Gupta",
+      "email": "student125@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC125",
+      "year": "3"
+    },
+    {
+      "id": "stu-126",
+      "contineo_id": "E1126",
+      "name": "Ranjit Gowda",
+      "email": "student126@example.com",
+      "department": "ECE",
+      "division": "B",
+      "roll": "21EC126",
+      "year": "2"
+    },
+    {
+      "id": "stu-127",
+      "contineo_id": "E1127",
+      "name": "Manoj Saxena",
+      "email": "student127@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC127",
+      "year": "4"
+    },
+    {
+      "id": "stu-128",
+      "contineo_id": "E1128",
+      "name": "Kiran Kamath",
+      "email": "student128@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC128",
+      "year": "3"
+    },
+    {
+      "id": "stu-129",
+      "contineo_id": "E1129",
+      "name": "Nikita Kamath",
+      "email": "student129@example.com",
+      "department": "ECE",
+      "division": "B",
+      "roll": "21EC129",
+      "year": "2"
+    },
+    {
+      "id": "stu-130",
+      "contineo_id": "E1130",
+      "name": "Manoj Iyengar",
+      "email": "student130@example.com",
+      "department": "ECE",
+      "division": "A",
+      "roll": "21EC130",
+      "year": "4"
+    },
+    {
+      "id": "stu-131",
+      "contineo_id": "M1131",
+      "name": "Neha Shetty",
+      "email": "student131@example.com",
+      "department": "ME",
+      "division": "B",
+      "roll": "21ME131",
+      "year": "2"
+    },
+    {
+      "id": "stu-132",
+      "contineo_id": "M1132",
+      "name": "Rishab Malagi",
+      "email": "student132@example.com",
+      "department": "ME",
+      "division": "B",
+      "roll": "21ME132",
+      "year": "4"
+    },
+    {
+      "id": "stu-133",
+      "contineo_id": "M1133",
+      "name": "Vishal Hegde",
+      "email": "student133@example.com",
+      "department": "ME",
+      "division": "B",
+      "roll": "21ME133",
+      "year": "2"
+    },
+    {
+      "id": "stu-134",
+      "contineo_id": "M1134",
+      "name": "Rohit Iyengar",
+      "email": "student134@example.com",
+      "department": "ME",
+      "division": "B",
+      "roll": "21ME134",
+      "year": "2"
+    },
+    {
+      "id": "stu-135",
+      "contineo_id": "M1135",
+      "name": "Sneha Joshi",
+      "email": "student135@example.com",
+      "department": "ME",
+      "division": "B",
+      "roll": "21ME135",
+      "year": "2"
+    },
+    {
+      "id": "stu-136",
+      "contineo_id": "M1136",
+      "name": "Neha Kumar",
+      "email": "student136@example.com",
+      "department": "ME",
+      "division": "B",
+      "roll": "21ME136",
+      "year": "4"
+    },
+    {
+      "id": "stu-137",
+      "contineo_id": "M1137",
+      "name": "Neha Kulkarni",
+      "email": "student137@example.com",
+      "department": "ME",
+      "division": "B",
+      "roll": "21ME137",
+      "year": "3"
+    },
+    {
+      "id": "stu-138",
+      "contineo_id": "M1138",
+      "name": "Divya Shetty",
+      "email": "student138@example.com",
+      "department": "ME",
+      "division": "A",
+      "roll": "21ME138",
+      "year": "2"
+    },
+    {
+      "id": "stu-139",
+      "contineo_id": "M1139",
+      "name": "Neha Patil",
+      "email": "student139@example.com",
+      "department": "ME",
+      "division": "A",
+      "roll": "21ME139",
+      "year": "2"
+    },
+    {
+      "id": "stu-140",
+      "contineo_id": "M1140",
+      "name": "Nikita Kulkarni",
+      "email": "student140@example.com",
+      "department": "ME",
+      "division": "B",
+      "roll": "21ME140",
+      "year": "3"
+    },
+    {
+      "id": "stu-141",
+      "contineo_id": "M1141",
+      "name": "Yash Kumar",
+      "email": "student141@example.com",
+      "department": "ME",
+      "division": "A",
+      "roll": "21ME141",
+      "year": "2"
+    },
+    {
+      "id": "stu-142",
+      "contineo_id": "M1142",
+      "name": "Kiran Saxena",
+      "email": "student142@example.com",
+      "department": "ME",
+      "division": "A",
+      "roll": "21ME142",
+      "year": "4"
+    },
+    {
+      "id": "stu-143",
+      "contineo_id": "M1143",
+      "name": "Divya Joshi",
+      "email": "student143@example.com",
+      "department": "ME",
+      "division": "A",
+      "roll": "21ME143",
+      "year": "2"
+    },
+    {
+      "id": "stu-144",
+      "contineo_id": "M1144",
+      "name": "Sneha Gupta",
+      "email": "student144@example.com",
+      "department": "ME",
+      "division": "B",
+      "roll": "21ME144",
+      "year": "3"
+    },
+    {
+      "id": "stu-145",
+      "contineo_id": "M1145",
+      "name": "Anusha Desai",
+      "email": "student145@example.com",
+      "department": "ME",
+      "division": "B",
+      "roll": "21ME145",
+      "year": "4"
+    },
+    {
+      "id": "stu-146",
+      "contineo_id": "M1146",
+      "name": "Manoj Patil",
+      "email": "student146@example.com",
+      "department": "ME",
+      "division": "A",
+      "roll": "21ME146",
+      "year": "2"
+    },
+    {
+      "id": "stu-147",
+      "contineo_id": "M1147",
+      "name": "Rohit Malagi",
+      "email": "student147@example.com",
+      "department": "ME",
+      "division": "B",
+      "roll": "21ME147",
+      "year": "2"
+    },
+    {
+      "id": "stu-148",
+      "contineo_id": "M1148",
+      "name": "Meghana Shetty",
+      "email": "student148@example.com",
+      "department": "ME",
+      "division": "B",
+      "roll": "21ME148",
+      "year": "3"
+    },
+    {
+      "id": "stu-149",
+      "contineo_id": "M1149",
+      "name": "Vishal Hiremath",
+      "email": "student149@example.com",
+      "department": "ME",
+      "division": "A",
+      "roll": "21ME149",
+      "year": "3"
+    },
+    {
+      "id": "stu-150",
+      "contineo_id": "M1150",
+      "name": "Ranjit Shenoy",
+      "email": "student150@example.com",
+      "department": "ME",
+      "division": "B",
+      "roll": "21ME150",
+      "year": "4"
+    },
+    {
+      "id": "stu-151",
+      "contineo_id": "M1151",
+      "name": "Rohit Kumar",
+      "email": "student151@example.com",
+      "department": "ME",
+      "division": "B",
+      "roll": "21ME151",
+      "year": "4"
+    },
+    {
+      "id": "stu-152",
+      "contineo_id": "M1152",
+      "name": "Meghana Shenoy",
+      "email": "student152@example.com",
+      "department": "ME",
+      "division": "A",
+      "roll": "21ME152",
+      "year": "2"
+    },
+    {
+      "id": "stu-153",
+      "contineo_id": "M1153",
+      "name": "Tejas Kumar",
+      "email": "student153@example.com",
+      "department": "ME",
+      "division": "B",
+      "roll": "21ME153",
+      "year": "3"
+    },
+    {
+      "id": "stu-154",
+      "contineo_id": "M1154",
+      "name": "Tejas Shenoy",
+      "email": "student154@example.com",
+      "department": "ME",
+      "division": "B",
+      "roll": "21ME154",
+      "year": "3"
+    },
+    {
+      "id": "stu-155",
+      "contineo_id": "M1155",
+      "name": "Harsha Patil",
+      "email": "student155@example.com",
+      "department": "ME",
+      "division": "B",
+      "roll": "21ME155",
+      "year": "2"
+    },
+    {
+      "id": "stu-156",
+      "contineo_id": "M1156",
+      "name": "Nikita Kulkarni",
+      "email": "student156@example.com",
+      "department": "ME",
+      "division": "B",
+      "roll": "21ME156",
+      "year": "2"
+    },
+    {
+      "id": "stu-157",
+      "contineo_id": "M1157",
+      "name": "Aishwarya Hegde",
+      "email": "student157@example.com",
+      "department": "ME",
+      "division": "A",
+      "roll": "21ME157",
+      "year": "2"
+    },
+    {
+      "id": "stu-158",
+      "contineo_id": "M1158",
+      "name": "Suhas Kumar",
+      "email": "student158@example.com",
+      "department": "ME",
+      "division": "B",
+      "roll": "21ME158",
+      "year": "4"
+    },
+    {
+      "id": "stu-159",
+      "contineo_id": "M1159",
+      "name": "Harsha Shetty",
+      "email": "student159@example.com",
+      "department": "ME",
+      "division": "B",
+      "roll": "21ME159",
+      "year": "2"
+    },
+    {
+      "id": "stu-160",
+      "contineo_id": "M1160",
+      "name": "Neha Sharma",
+      "email": "student160@example.com",
+      "department": "ME",
+      "division": "A",
+      "roll": "21ME160",
+      "year": "2"
+    },
+    {
+      "id": "stu-161",
+      "contineo_id": "M1161",
+      "name": "Manoj Desai",
+      "email": "student161@example.com",
+      "department": "ME",
+      "division": "A",
+      "roll": "21ME161",
+      "year": "4"
+    },
+    {
+      "id": "stu-162",
+      "contineo_id": "M1162",
+      "name": "Yash Shenoy",
+      "email": "student162@example.com",
+      "department": "ME",
+      "division": "A",
+      "roll": "21ME162",
+      "year": "3"
+    },
+    {
+      "id": "stu-163",
+      "contineo_id": "M1163",
+      "name": "Tejas Gowda",
+      "email": "student163@example.com",
+      "department": "ME",
+      "division": "A",
+      "roll": "21ME163",
+      "year": "4"
+    },
+    {
+      "id": "stu-164",
+      "contineo_id": "M1164",
+      "name": "Meghana Shenoy",
+      "email": "student164@example.com",
+      "department": "ME",
+      "division": "B",
+      "roll": "21ME164",
+      "year": "3"
+    },
+    {
+      "id": "stu-165",
+      "contineo_id": "M1165",
+      "name": "Rishab Gowda",
+      "email": "student165@example.com",
+      "department": "ME",
+      "division": "B",
+      "roll": "21ME165",
+      "year": "4"
+    },
+    {
+      "id": "stu-166",
+      "contineo_id": "M1166",
+      "name": "Pooja Saxena",
+      "email": "student166@example.com",
+      "department": "ME",
+      "division": "B",
+      "roll": "21ME166",
+      "year": "2"
+    },
+    {
+      "id": "stu-167",
+      "contineo_id": "M1167",
+      "name": "Rishab Desai",
+      "email": "student167@example.com",
+      "department": "ME",
+      "division": "A",
+      "roll": "21ME167",
+      "year": "4"
+    },
+    {
+      "id": "stu-168",
+      "contineo_id": "M1168",
+      "name": "Rishab Iyengar",
+      "email": "student168@example.com",
+      "department": "ME",
+      "division": "B",
+      "roll": "21ME168",
+      "year": "2"
+    },
+    {
+      "id": "stu-169",
+      "contineo_id": "M1169",
+      "name": "Kiran Gupta",
+      "email": "student169@example.com",
+      "department": "ME",
+      "division": "A",
+      "roll": "21ME169",
+      "year": "3"
+    },
+    {
+      "id": "stu-170",
+      "contineo_id": "M1170",
+      "name": "Sneha Kamath",
+      "email": "student170@example.com",
+      "department": "ME",
+      "division": "A",
+      "roll": "21ME170",
+      "year": "3"
+    },
+    {
+      "id": "stu-171",
+      "contineo_id": "C1171",
+      "name": "Arjun Malagi",
+      "email": "student171@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI171",
+      "year": "3"
+    },
+    {
+      "id": "stu-172",
+      "contineo_id": "C1172",
+      "name": "Tejas Rao",
+      "email": "student172@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI172",
+      "year": "4"
+    },
+    {
+      "id": "stu-173",
+      "contineo_id": "C1173",
+      "name": "Suhas Shenoy",
+      "email": "student173@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI173",
+      "year": "3"
+    },
+    {
+      "id": "stu-174",
+      "contineo_id": "C1174",
+      "name": "Meghana Desai",
+      "email": "student174@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI174",
+      "year": "3"
+    },
+    {
+      "id": "stu-175",
+      "contineo_id": "C1175",
+      "name": "Rishab Shetty",
+      "email": "student175@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI175",
+      "year": "3"
+    },
+    {
+      "id": "stu-176",
+      "contineo_id": "C1176",
+      "name": "Sneha Kamath",
+      "email": "student176@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI176",
+      "year": "4"
+    },
+    {
+      "id": "stu-177",
+      "contineo_id": "C1177",
+      "name": "Rahul Joshi",
+      "email": "student177@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI177",
+      "year": "4"
+    },
+    {
+      "id": "stu-178",
+      "contineo_id": "C1178",
+      "name": "Ranjit Shetty",
+      "email": "student178@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI178",
+      "year": "3"
+    },
+    {
+      "id": "stu-179",
+      "contineo_id": "C1179",
+      "name": "Yash Shetty",
+      "email": "student179@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI179",
+      "year": "3"
+    },
+    {
+      "id": "stu-180",
+      "contineo_id": "C1180",
+      "name": "Harsha Desai",
+      "email": "student180@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI180",
+      "year": "4"
+    },
+    {
+      "id": "stu-181",
+      "contineo_id": "C1181",
+      "name": "Arjun Saxena",
+      "email": "student181@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI181",
+      "year": "4"
+    },
+    {
+      "id": "stu-182",
+      "contineo_id": "C1182",
+      "name": "Ranjit Rao",
+      "email": "student182@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI182",
+      "year": "2"
+    },
+    {
+      "id": "stu-183",
+      "contineo_id": "C1183",
+      "name": "Harsha Malagi",
+      "email": "student183@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI183",
+      "year": "4"
+    },
+    {
+      "id": "stu-184",
+      "contineo_id": "C1184",
+      "name": "Sneha Joshi",
+      "email": "student184@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI184",
+      "year": "2"
+    },
+    {
+      "id": "stu-185",
+      "contineo_id": "C1185",
+      "name": "Neha Shenoy",
+      "email": "student185@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI185",
+      "year": "3"
+    },
+    {
+      "id": "stu-186",
+      "contineo_id": "C1186",
+      "name": "Sneha Saxena",
+      "email": "student186@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI186",
+      "year": "2"
+    },
+    {
+      "id": "stu-187",
+      "contineo_id": "C1187",
+      "name": "Neha Gowda",
+      "email": "student187@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI187",
+      "year": "3"
+    },
+    {
+      "id": "stu-188",
+      "contineo_id": "C1188",
+      "name": "Rohit Patil",
+      "email": "student188@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI188",
+      "year": "3"
+    },
+    {
+      "id": "stu-189",
+      "contineo_id": "C1189",
+      "name": "Rishab Iyengar",
+      "email": "student189@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI189",
+      "year": "3"
+    },
+    {
+      "id": "stu-190",
+      "contineo_id": "C1190",
+      "name": "Suhas Shetty",
+      "email": "student190@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI190",
+      "year": "4"
+    },
+    {
+      "id": "stu-191",
+      "contineo_id": "C1191",
+      "name": "Rohit Shetty",
+      "email": "student191@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI191",
+      "year": "3"
+    },
+    {
+      "id": "stu-192",
+      "contineo_id": "C1192",
+      "name": "Neha Kumar",
+      "email": "student192@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI192",
+      "year": "2"
+    },
+    {
+      "id": "stu-193",
+      "contineo_id": "C1193",
+      "name": "Vishal Rao",
+      "email": "student193@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI193",
+      "year": "3"
+    },
+    {
+      "id": "stu-194",
+      "contineo_id": "C1194",
+      "name": "Gagana Kulkarni",
+      "email": "student194@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI194",
+      "year": "2"
+    },
+    {
+      "id": "stu-195",
+      "contineo_id": "C1195",
+      "name": "Divya Shenoy",
+      "email": "student195@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI195",
+      "year": "4"
+    },
+    {
+      "id": "stu-196",
+      "contineo_id": "C1196",
+      "name": "Akash Kamath",
+      "email": "student196@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI196",
+      "year": "3"
+    },
+    {
+      "id": "stu-197",
+      "contineo_id": "C1197",
+      "name": "Arjun Gupta",
+      "email": "student197@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI197",
+      "year": "4"
+    },
+    {
+      "id": "stu-198",
+      "contineo_id": "C1198",
+      "name": "Tejas Hegde",
+      "email": "student198@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI198",
+      "year": "3"
+    },
+    {
+      "id": "stu-199",
+      "contineo_id": "C1199",
+      "name": "Rohit Patil",
+      "email": "student199@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI199",
+      "year": "2"
+    },
+    {
+      "id": "stu-200",
+      "contineo_id": "C1200",
+      "name": "Nikita Shetty",
+      "email": "student200@example.com",
+      "department": "CIVIL",
+      "division": "A",
+      "roll": "21CI200",
+      "year": "4"
+    }
+  ],
+  "courses": [
+    {
+      "id": "CSE101",
+      "courseName": "Data Structures",
+      "credits": 4,
+      "semester": 3
+    },
+    {
+      "id": "CSE220",
+      "courseName": "DBMS",
+      "credits": 3,
+      "semester": 4
+    },
+    {
+      "id": "CSE330",
+      "courseName": "Operating Systems",
+      "credits": 4,
+      "semester": 4
+    },
+    {
+      "id": "CSE421",
+      "courseName": "Machine Learning",
+      "credits": 3,
+      "semester": 5
+    },
+    {
+      "id": "CSE450",
+      "courseName": "Computer Networks",
+      "credits": 3,
+      "semester": 5
+    },
+    {
+      "id": "ECE201",
+      "courseName": "Microprocessors",
+      "credits": 4,
+      "semester": 3
+    },
+    {
+      "id": "ECE322",
+      "courseName": "Digital Electronics",
+      "credits": 3,
+      "semester": 4
+    },
+    {
+      "id": "ECE350",
+      "courseName": "VLSI",
+      "credits": 3,
+      "semester": 5
+    },
+    {
+      "id": "ME101",
+      "courseName": "Thermodynamics",
+      "credits": 4,
+      "semester": 3
+    },
+    {
+      "id": "ME250",
+      "courseName": "Fluid Mechanics",
+      "credits": 3,
+      "semester": 4
+    },
+    {
+      "id": "ME310",
+      "courseName": "Heat Transfer",
+      "credits": 3,
+      "semester": 5
+    },
+    {
+      "id": "CIV101",
+      "courseName": "Surveying",
+      "credits": 4,
+      "semester": 3
+    },
+    {
+      "id": "CIV340",
+      "courseName": "Structural Engineering",
+      "credits": 3,
+      "semester": 5
+    },
+    {
+      "id": "CIV360",
+      "courseName": "Concrete Technology",
+      "credits": 3,
+      "semester": 5
+    },
+    {
+      "id": "CSE360",
+      "courseName": "Cloud Computing",
+      "credits": 3,
+      "semester": 6
+    },
+    {
+      "id": "CSE370",
+      "courseName": "Cyber Security",
+      "credits": 3,
+      "semester": 6
+    },
+    {
+      "id": "ECE360",
+      "courseName": "Embedded Systems",
+      "credits": 3,
+      "semester": 6
+    },
+    {
+      "id": "ME360",
+      "courseName": "Manufacturing Technology",
+      "credits": 3,
+      "semester": 6
+    },
+    {
+      "id": "CIV380",
+      "courseName": "Environmental Engineering",
+      "credits": 3,
+      "semester": 6
+    },
+    {
+      "id": "CSE480",
+      "courseName": "AI & Deep Learning",
+      "credits": 4,
+      "semester": 7
+    }
+  ],
+  "admins": [
+    {
+      "id": "admin-001",
+      "name": "Dr. Mahesh",
+      "role": "COE"
+    },
+    {
+      "id": "admin-002",
+      "name": "Priya S",
+      "role": "Exam Section"
+    }
+  ]
+}
